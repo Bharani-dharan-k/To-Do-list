@@ -44,7 +44,8 @@ This is a simple and dynamic **To-Do List Application** built using **React.js**
 ---
 
 ## DEMO
-![Frontend image](public/image.png)
+![Frontend image](public/image.png){:style="width: 300px; height: 200px;"}
+
 
 
 
